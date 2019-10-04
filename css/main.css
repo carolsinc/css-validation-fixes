@@ -1,5 +1,5 @@
 body{
-background-color #ccc;
+background-color: #ccc;
 font-family:sans-serif;
 }
 
@@ -8,6 +8,6 @@ font-size: 1.5rem;
 }
 
 article {
-font-style: italic
-color: #666;
+font-style: italic;
+    color: #666;
 }
